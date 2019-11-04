@@ -2,10 +2,10 @@
 <score-partwise>
 	<identification>
 		<creator type="Composer">Matteo Carcassi</creator>
-		<creator type="Copyist">LeyaoShu</creator>
-		<rights type="License">GNU Lesser General Public License</rights>
+		<creator type="Encoder">LeyaoShu</creator>
+		<rights type="License">GNU Lesser General Public</rights>
 		<encoding>
-			<encoding-date>2019-11-03</encoding-date>
+			<encoding-date>2019-11-04</encoding-date>
 			<software>XunScore 0.9.1</software>
 		</encoding>
 	</identification>
@@ -37,7 +37,7 @@
 		<lyric-font />
 	</defaults>
 	<credit page="1">
-		<credit-words default-x="0.00" font-size="xx-large" font-weight="bold" halign="center">Carcassi 25 Etudes Op.60</credit-words>
+		<credit-words font-size="xx-large" font-weight="bold" halign="center">Carcassi 25 Etudes Op.60</credit-words>
 	</credit>
 	<credit page="1">
 		<credit-words default-y="-8.00" font-size="x-large" halign="right">Etude NO.1</credit-words>
